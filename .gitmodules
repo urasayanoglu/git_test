@@ -1,0 +1,3 @@
+[submodule "missing-semester"]
+	path = missing-semester
+	url = git@github.com:missing-semester/missing-semester.git
